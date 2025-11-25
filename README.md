@@ -1,7 +1,7 @@
 # Orbital Mechanics – Study Scripts
 
-This repository contains my personal study implementation and organization of scripts for classical orbital mechanics and spacecraft dynamics [Curtis, H.D., 2019. Orbital mechanics for engineering students. Butterworth-Heinemann.].  
-The work is inspired by examples and exercises from “Orbital Mechanics for Engineering Students” by Howard D. Curtis; that book and its original materials remain the property of their respective copyright holder.
+This repository contains my personal study implementation and organization of scripts for classical orbital mechanics and spacecraft dynamics.  
+The work is inspired by examples and exercises from “Orbital Mechanics for Engineering Students” by Howard D. Curtis; that book and its original materials remain the property of their respective copyright holder, [[Curtis, H.D., 2019. Orbital mechanics for engineering students. Butterworth-Heinemann.]].
 
 The code is a mix of MATLAB and Python and is organized roughly by chapter/topic.  
 File names and example numbers (D.xx, Example_x_xx.m) follow the same labels used in the source material so it is easy to cross‑reference when studying.
