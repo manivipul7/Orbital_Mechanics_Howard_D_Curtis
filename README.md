@@ -1,6 +1,6 @@
 # Orbital Mechanics
 
-Python code based on the programs provided in "Orbital Mechanics for Engineering Students" by Howard D. Curtis.
+Python code based on the programs provided in "Orbital Mechanics for Engineering Students" by Howard D. Curtis [Curtis, H.D., 2019. Orbital mechanics for engineering students. Butterworth-Heinemann.].
 
 | Appendix | File Name                   | Description |
 |----------|-----------------------------|-------------|
@@ -94,10 +94,3 @@ Python code based on the programs provided in "Orbital Mechanics for Engineering
 | **Chapter 12: Spacecraft Attitude Dynamics** ||
 | **Chapter 13: Rocket Vehicle Dynamics** ||
 | D.53     |   Example_13_03.m           | Example 11.3: Calculation of a gravity turn trajectory. |
-
-
-
-
-
-
-
